@@ -3,3 +3,6 @@ If you prefer good old Windows CMD commands, like me, and hate typing "clear" in
 
 # How it works?
 It is just a shell script that just has 'clear', the file 'chmod +x', renamed not to have the '.sh' at the end and moved to 'bin' directory.
+
+# Why is this a thing?
+Don't question, I am weird.
